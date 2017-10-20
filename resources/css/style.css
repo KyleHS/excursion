@@ -5,24 +5,20 @@ body {
 p {
   color: aquamarine;
   font-size: 16px;
-  text-align: center;
 }
 h1 {
   font-family: Verdana;
   font-weight: normal;
   font-style: 50px;
   color: white;
-  text-align: center;
 }
 h2 {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
-  text-align: center;
 }
 a {
   text-decoration: underline;
-  text-align: center;
 }
 h3 {
   text-align: right;
