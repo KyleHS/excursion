@@ -20,7 +20,8 @@ h2 {
   text-align: center;
 }
 a {
-  text-decoration: none;
+  text-decoration: underline;
+  text-align: center;
 }
 h3 {
   text-align: right;
