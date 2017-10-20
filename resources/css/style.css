@@ -5,6 +5,7 @@ body {
 p {
   color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 h1 {
   font-family: Verdana;
@@ -18,7 +19,7 @@ h2 {
   color: gray;
 }
 a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 h3 {
   text-align: right;
